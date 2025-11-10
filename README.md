@@ -32,7 +32,7 @@ I'm a passionate [Your Profession/Student Role, e.g., Software Engineering Stude
 
 ## 🖼️ Tech Stack Logos
 <div align="center">
-  <img src="https://legacy.reactjs.org/logo-og.png" alt="React Logo" width="200" />
+  <img src="https://tse4.mm.bing.net/th/id/OIP.WGdDD8kt_ceZmhequIbQ0QHaGD?cb=ucfimg2ucfimg=1&w=496&h=406&rs=1&pid=ImgDetMain&o=7&rm=3" alt="React Logo" width="200" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" alt="Node.js Logo" width="200" />
   <img src="https://velog.velcdn.com/images/minw0_o/post/6950770b-7279-412e-9c4f-0ba6bcf23506/image.png" alt="Next.js Logo" width="200" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="Vue.js Logo" width="200" />
