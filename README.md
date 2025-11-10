@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![Profile Views](https://views.igorkowalczyk.dev/api/badge/nguyenhuuluanTTB?style=flat&label=PROFILE+VIEWS&labelColor=gray&color=purple)
 
 <p align="center">
@@ -11,7 +9,7 @@
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nguyenhuuluanTTB&bg_color=ffffff&color=000000&line=4da3ff&point=000000&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Luan Nguyen!
 
 I'm a passionate [Your Profession/Student Role, e.g., Software Engineering Student] at [Your University/Company, e.g., Tra Vinh University (TVU)], specializing in [Your Focus Areas, e.g., web development, AI, and open-source contributions]. I love building innovative projects that solve real-world problems, collaborating on teams, and exploring new technologies. When I'm not coding, you'll find me [Your Hobbies, e.g., hiking, reading sci-fi, or contributing to hackathons].
 
@@ -20,16 +18,16 @@ I'm a passionate [Your Profession/Student Role, e.g., Software Engineering Stude
 </p>
 
 ## 🔧 Skills & Technologies
-- **Languages**: Python, JavaScript, Java, C++
-- **Frameworks/Libraries**: React, Node.js, Django, TensorFlow
+- **Languages**: Python, JavaScript, Java, C#, PHP
+- **Frameworks/Libraries**: React, Node.js, NextJS, VueJS, Laravel
 - **Tools**: Git, Docker, AWS, VS Code
 - **Other**: Data Structures & Algorithms, Machine Learning, Web Design
 
 | Category | Tech Stack |
 |----------|------------|
 | Frontend | HTML5, CSS3, React, Tailwind CSS |
-| Backend | Node.js, Express, Django, Flask |
-| Databases | MongoDB, PostgreSQL, MySQL |
+| Backend | Node.js, Express, Laravel |
+| Databases | MongoDB, MySQL |
 | DevOps | GitHub Actions, Docker, Kubernetes |
 
 ## 🖼️ Tech Stack Logos
