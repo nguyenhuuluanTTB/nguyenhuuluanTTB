@@ -48,7 +48,7 @@ Check out my [pinned repositories](https://github.com/nguyenhuuluanTTB?tab=repos
 </p>
 
 ## 📫 Get in Touch
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Email**: [nguyenhuuluan19092004zz@gmail.com](mailto:your.email@example.com)
 - **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 - **X (Twitter)**: [@yourhandle](https://x.com/yourhandle)
 - **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
