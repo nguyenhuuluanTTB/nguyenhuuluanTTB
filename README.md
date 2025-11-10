@@ -18,6 +18,12 @@ I'm a passionate Software Engineering Student at Tra Vinh University (TVU), spec
 </p>
 
 <p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2xzdjBha3BvbHU5dXF3enc4ZGhhemo1M3FpNnQxanlldHgzeDNkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ef72To2kJgyAC1FdxK/giphy.gif"
+       width="1200"
+       alt="Coding animation">
+</p>
+
+<p align="center">
   <b>📅 19 September 2004</b>  
   <br>✨ Another year older, wiser, and happier ✨
 </p>
