@@ -9,7 +9,7 @@
 
 # Hi there 👋, I'm Luan Nguyen!
 
-I'm a passionate [Your Profession/Student Role, e.g., Software Engineering Student] at [Your University/Company, e.g., Tra Vinh University (TVU)], specializing in [Your Focus Areas, e.g., web development, AI, and open-source contributions]. I love building innovative projects that solve real-world problems, collaborating on teams, and exploring new technologies. When I'm not coding, you'll find me [Your Hobbies, e.g., hiking, reading sci-fi, or contributing to hackathons].
+I'm a passionate [Software Engineering Student] at [Your University/Company, e.g., Tra Vinh University (TVU)], specializing in [Your Focus Areas, e.g., web development, AI, and open-source contributions]. I love building innovative projects that solve real-world problems, collaborating on teams, and exploring new technologies. When I'm not coding, you'll find me [Your Hobbies, e.g., hiking, reading sci-fi, or contributing to hackathons].
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nguyenhuuluanTTB&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
