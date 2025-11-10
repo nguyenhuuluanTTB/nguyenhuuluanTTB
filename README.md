@@ -63,7 +63,7 @@ Check out my [pinned repositories](https://github.com/nguyenhuuluanTTB?tab=repos
 </p>
 
 <p align="center">
-  👉 Quét mã QR hoặc nhấn vào ảnh để kết bạn Zalo nhé!
+  Quét mã QR hoặc nhấn vào ảnh để kết bạn Zalo nhé!
 </p>
 
 ---
