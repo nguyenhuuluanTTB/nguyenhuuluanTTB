@@ -23,7 +23,15 @@ I'm a passionate Software Engineering Student at Tra Vinh University (TVU), spec
   <br>✨ Another year older, wiser, and happier ✨
 </p>
 
-![Football](https://img.shields.io/badge/⚽-Football-green?style=for-the-badge)
+<h2 align="center">⚽ My Passion ⚽</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="250" alt="football gif"/>
+</p>
+
+<p align="center">
+  Watching football, scoring goals, and cheering for my team is my ultimate joy!
+</p>
 
 
 <p align="center">
