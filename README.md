@@ -54,7 +54,15 @@ Check out my [pinned repositories](https://github.com/nguyenhuuluanTTB?tab=repos
 ## 📫 Get in Touch
 - **Email**: [nguyenhuuluan19092004zz@gmail.com](nguyenhuuluan19092004zz@gmail.com)
 - **Facebook**: [https://www.facebook.com/profile.php?id=100077478473382](https://www.facebook.com/profile.php?id=100077478473382)
+<p align="center">
+  <a href="https://zalo.me/0374057078" target="_blank">
+    <img src="https://i.imgur.com/your_qr_image.png" alt="Zalo QR Code" width="200" />
+  </a>
+</p>
 
+<p align="center">
+  👉 Quét mã QR hoặc nhấn vào ảnh để kết bạn Zalo nhé!
+</p>
 Feel free to reach out for collaborations or just to say hi! 😊
 
 ---
