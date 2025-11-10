@@ -52,8 +52,8 @@ Check out my [pinned repositories](https://github.com/nguyenhuuluanTTB?tab=repos
 </p>
 
 ## 📫 Get in Touch
-- **[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]**: [nguyenhuuluan19092004zz@gmail.com](nguyenhuuluan19092004zz@gmail.com)
-- **Facebook**: [https://www.facebook.com/profile.php?id=100077478473382](https://www.facebook.com/profile.php?id=100077478473382)
+- **![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)**: [nguyenhuuluan19092004zz@gmail.com](nguyenhuuluan19092004zz@gmail.com)
+- **[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)]**: [https://www.facebook.com/profile.php?id=100077478473382](https://www.facebook.com/profile.php?id=100077478473382)
 - **Zalo**:
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nguyenhuuluan19092004zz@gmail.com)
