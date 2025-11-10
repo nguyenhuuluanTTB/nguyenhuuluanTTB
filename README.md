@@ -14,7 +14,7 @@ I'm a passionate Software Engineering Student at Tra Vinh University (TVU), spec
 <h2 align="center">🎂  My Birthday  🎂</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ef72To2kJgyAC1FdxK/giphy.gif" width="200" alt="birthday cake"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2xzdjBha3BvbHU5dXF3enc4ZGhhemo1M3FpNnQxanlldHgzeDNkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ef72To2kJgyA 1FdxK/giphy.gif" width="200" alt="birthday cake"/>
 </p>
 
 <p align="center">
