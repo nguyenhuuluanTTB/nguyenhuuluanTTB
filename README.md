@@ -52,13 +52,10 @@ Check out my [pinned repositories](https://github.com/nguyenhuuluanTTB?tab=repos
 </p>
 
 ## 📫 Get in Touch
-- ![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white) : [nguyenhuuluan19092004zz@gmail.com](nguyenhuuluan19092004zz@gmail.com)
-- ![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white) : [https://www.facebook.com/profile.php?id=100077478473382](https://www.facebook.com/profile.php?id=100077478473382)
-- ![Zalo](https://img.shields.io/badge/Zalo-0085FF?logo=zalo&logoColor=white) :
+- ![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)  [nguyenhuuluan19092004zz@gmail.com](nguyenhuuluan19092004zz@gmail.com)
+- ![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)  [https://www.facebook.com/profile.php?id=100077478473382](https://www.facebook.com/profile.php?id=100077478473382)
+- ![Zalo](https://img.shields.io/badge/Zalo-0085FF?logo=zalo&logoColor=white)
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nguyenhuuluan19092004zz@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100077478473382)
-[![Zalo](https://img.shields.io/badge/Zalo-0085FF?logo=zalo&logoColor=white)](https://zalo.me/0123456789)
 
 <p align="center">
   <a href="https://zalo.me/0374057078" target="_blank">
