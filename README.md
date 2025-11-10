@@ -49,9 +49,7 @@ Check out my [pinned repositories](https://github.com/nguyenhuuluanTTB?tab=repos
 
 ## 📫 Get in Touch
 - **Email**: [nguyenhuuluan19092004zz@gmail.com](mailto:your.email@example.com)
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **X (Twitter)**: [@yourhandle](https://x.com/yourhandle)
-- **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
+- **Facebook**: [https://www.facebook.com/profile.php?id=100077478473382](https://linkedin.com/in/your-profile)
 
 Feel free to reach out for collaborations or just to say hi! 😊
 
