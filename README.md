@@ -36,6 +36,11 @@ I'm a passionate [Your Profession/Student Role, e.g., Software Engineering Stude
   <img src="https://tse2.mm.bing.net/th/id/OIP.1BeWk3yNKm6r49NqPHt02gHaHa?cb=ucfimg2ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Vue.js Logo" width="140" />
 </div>
 
+### 🧰 Công cụ khác
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-0078d7?logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+
 ## 🚀 Featured Projects
 Check out my [pinned repositories](https://github.com/nguyenhuuluanTTB?tab=repositories) for more!
 
