@@ -5,6 +5,8 @@
        alt="Coding animation">
 </p>
 
+![Contribution Graph](./images/contribution_graph.png)
+
 
 
 <!--
