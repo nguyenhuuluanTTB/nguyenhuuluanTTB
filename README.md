@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Coding animation](https://media2.giphy.com/media/N3yLGQ1oMYfGU/giphy.gif)
 
 <!--
 **nguyenhuuluanTTB/nguyenhuuluanTTB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
