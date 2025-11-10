@@ -40,6 +40,7 @@ I'm a passionate [Your Profession/Student Role, e.g., Software Engineering Stude
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-0078d7?logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ## 🚀 Featured Projects
 Check out my [pinned repositories](https://github.com/nguyenhuuluanTTB?tab=repositories) for more!
