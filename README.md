@@ -1,4 +1,4 @@
-<img width="520" height="520" alt="image" src="https://github.com/user-attachments/assets/2af7d592-1ca8-47a6-9ab2-bd97e614aff8" /><p align="center">
+<p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2M3MGE0OGdqYmpmMWpqMnk2Z2piaWV6b3lmYnpib3pldmZqb2kzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif"
        width="1200"
        alt="Coding animation">
