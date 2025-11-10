@@ -48,7 +48,7 @@ Check out my [pinned repositories](https://github.com/YOUR-USERNAME?tab=reposito
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nguyenhuuluanTTB&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?nguyenhuuluanTTB=YOUR-USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?=nguyenhuuluanTTB&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ## 📫 Get in Touch
