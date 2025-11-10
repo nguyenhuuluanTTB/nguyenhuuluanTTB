@@ -64,8 +64,5 @@ Check out my [pinned repositories](https://github.com/nguyenhuuluanTTB?tab=repos
 <p align="center">
   👉 Quét mã QR hoặc nhấn vào ảnh để kết bạn Zalo nhé!
 </p>
-Feel free to reach out for collaborations or just to say hi! 😊
-
 ---
-
 *Thanks for visiting! This profile is powered by GitHub README magic. Last updated: November 10, 2025.*
