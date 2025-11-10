@@ -39,10 +39,6 @@ I'm a passionate [Your Profession/Student Role, e.g., Software Engineering Stude
 </div>
 
 ## 🚀 Featured Projects
-- **[Project Name 1](https://github.com/YOUR-USERNAME/project1)**: A [brief description, e.g., university handbook app built with React and Firebase]. (Stars: ⭐ [number])
-- **[Project Name 2](https://github.com/YOUR-USERNAME/project2)**: [Description, e.g., AI-based education verification system using Python and ML]. (Forks: 🍴 [number])
-- **[Project Name 3](https://github.com/YOUR-USERNAME/project3)**: [Description, e.g., Open-source contribution to TVU-OPS repos].
-
 Check out my [pinned repositories](https://github.com/YOUR-USERNAME?tab=repositories) for more!
 
 ## 📊 GitHub Stats
