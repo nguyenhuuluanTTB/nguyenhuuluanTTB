@@ -34,7 +34,7 @@ I'm a passionate [Your Profession/Student Role, e.g., Software Engineering Stude
 <div align="center">
   <img src="https://legacy.reactjs.org/logo-og.png" alt="React Logo" width="200" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" alt="Node.js Logo" width="200" />
-  <img src="[https://w7.pngwing.com/pngs/643/143/png-transparent-nextjs-hd-logo.png](https://media.licdn.com/dms/image/D5612AQGvf2Ed75-pOQ/article-cover_image-shrink_720_1280/0/1692952493549?e=2147483647&v=beta&t=6A090nukZPKbB58lTHp4lfVKR7Qe9GGiT_i8w7rJExI)" alt="Next.js Logo" width="200" />
+  <img src="https://velog.velcdn.com/images/minw0_o/post/6950770b-7279-412e-9c4f-0ba6bcf23506/image.png" alt="Next.js Logo" width="200" />
   <img src="https://icon2.cleanpng.com/20180730/lgc/ddb6f50ece52f78e1abc03a608bb5bb7.webp" alt="Vue.js Logo" width="200" />
 </div>
 
