@@ -56,8 +56,8 @@ Check out my [pinned repositories](https://github.com/nguyenhuuluanTTB?tab=repos
 - **Facebook**: [https://www.facebook.com/profile.php?id=100077478473382](https://www.facebook.com/profile.php?id=100077478473382)
 <p align="center">
   <a href="https://zalo.me/0374057078" target="_blank">
-    <img src="https://i.imgur.com/your_qr_image.png" alt="Zalo QR Code" width="200" />
-    [![qr-zalo.png](https://i.postimg.cc/638BQ92n/qr-zalo.png)](https://postimg.cc/Hc1qZ1tk)
+    <img src="https://i.postimg.cc/638BQ92n/qr-zalo.png" alt="Zalo QR Code" width="200" />
+    
   </a>
 </p>
 
