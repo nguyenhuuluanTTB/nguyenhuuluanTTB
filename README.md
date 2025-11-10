@@ -95,4 +95,9 @@ Check out my [pinned repositories](https://github.com/nguyenhuuluanTTB?tab=repos
 
 ---
 
-*Thanks for visiting! This profile is powered by GitHub README magic. Last updated: November 10, 2025.*
+<h3 align="center">
+  <span style="background: linear-gradient(to right, #ff7e5f, #feb47b);
+               -webkit-background-clip: text;
+               color: transparent;">*Thanks for visiting!* 🎉</span>
+</h3>
+
