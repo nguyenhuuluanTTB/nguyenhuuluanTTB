@@ -96,6 +96,8 @@ Check out my [pinned repositories](https://github.com/nguyenhuuluanTTB?tab=repos
 ---
 
 <p align="center">
-  <span style="color:#4da3ff; font-size:20px;">*Thanks for visiting!* 🎉</span>
+  <span style="color:#4da3ff; font-size:24px; font-weight:bold;">
+    *Thanks for visiting!* 🌟🚀
+  </span>
 </p>
 
