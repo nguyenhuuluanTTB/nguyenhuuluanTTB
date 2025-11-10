@@ -1,4 +1,4 @@
-<p align="center">
+<img width="520" height="520" alt="image" src="https://github.com/user-attachments/assets/2af7d592-1ca8-47a6-9ab2-bd97e614aff8" /><p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2M3MGE0OGdqYmpmMWpqMnk2Z2piaWV6b3lmYnpib3pldmZqb2kzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif"
        width="1200"
        alt="Coding animation">
@@ -57,6 +57,7 @@ Check out my [pinned repositories](https://github.com/nguyenhuuluanTTB?tab=repos
 <p align="center">
   <a href="https://zalo.me/0374057078" target="_blank">
     <img src="https://i.imgur.com/your_qr_image.png" alt="Zalo QR Code" width="200" />
+    [![qr-zalo.png](https://i.postimg.cc/638BQ92n/qr-zalo.png)](https://postimg.cc/Hc1qZ1tk)
   </a>
 </p>
 
