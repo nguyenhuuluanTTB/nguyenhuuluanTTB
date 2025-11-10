@@ -34,8 +34,8 @@ I'm a passionate [Your Profession/Student Role, e.g., Software Engineering Stude
 <div align="center">
   <img src="https://legacy.reactjs.org/logo-og.png" alt="React Logo" width="200" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" alt="Node.js Logo" width="200" />
-  <img src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png" alt="Django Logo" width="200" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png" alt="TensorFlow Logo" width="200" />
+  <img src="https://w7.pngwing.com/pngs/643/143/png-transparent-nextjs-hd-logo.png" alt="Next.js Logo" width="200" />
+  <img src="https://icon2.cleanpng.com/20180730/lgc/ddb6f50ece52f78e1abc03a608bb5bb7.webp" alt="Vue.js Logo" width="200" />
 </div>
 
 ## 🚀 Featured Projects
