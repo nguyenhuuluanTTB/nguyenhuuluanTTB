@@ -9,7 +9,19 @@
 
 # Hi there 👋, I'm Luan Nguyen!
 
-I'm a passionate [Software Engineering Student] at [Your University/Company, e.g., Tra Vinh University (TVU)], specializing in [Your Focus Areas, e.g., web development, AI, and open-source contributions]. I love building innovative projects that solve real-world problems, collaborating on teams, and exploring new technologies. When I'm not coding, you'll find me [Your Hobbies, e.g., hiking, reading sci-fi, or contributing to hackathons].
+I'm a passionate Software Engineering Student at Tra Vinh University (TVU), specializing in web development, AI. I love building innovative projects that solve real-world problems, collaborating on teams, and exploring new technologies. 
+
+<h2 align="center">🎂  My Birthday  🎂</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRQTezZrKak4BeE/giphy.gif" width="200" alt="birthday cake" />
+</p>
+
+<p align="center">
+  <b>📅 19 September 2004</b>  
+  <br>✨ Another year older, wiser, and happier ✨
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nguyenhuuluanTTB&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
