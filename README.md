@@ -95,9 +95,7 @@ Check out my [pinned repositories](https://github.com/nguyenhuuluanTTB?tab=repos
 
 ---
 
-<h3 align="center">
-  <span style="background: linear-gradient(to right, #ff7e5f, #feb47b);
-               -webkit-background-clip: text;
-               color: transparent;">*Thanks for visiting!* 🎉</span>
-</h3>
+<p align="center">
+  <span style="color:#4da3ff; font-size:20px;">*Thanks for visiting!* 🎉</span>
+</p>
 
