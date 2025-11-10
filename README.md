@@ -5,7 +5,26 @@
        alt="Coding animation">
 </p>
 
-![Contribution Graph](./images/contribution_graph.png)
+![Contribution Graph](https://quickchart.io/chart?c={
+  type:'line',
+  data:{
+    labels:['11','12','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','31','1','2','3','4','5','6','7','8','9','10'],
+    datasets:[{
+      label:'Contributions',
+      data:[0,10,12,9,7,2,0,0,4,13,0,0,0,0,0,0,2,6,5,0,0,3,1,0,0,0,4,2,1,0],
+      fill:true,
+      backgroundColor:'rgba(0,110,255,0.2)',
+      borderColor:'rgba(0,110,255,1)',
+      pointBackgroundColor:'black',
+      pointRadius:4,
+      tension:0.3
+    }]
+  },
+  options:{
+    scales:{y:{beginAtZero:true,ticks:{stepSize:2}}},
+    plugins:{legend:{display:false}}
+  }
+})
 
 
 
