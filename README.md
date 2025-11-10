@@ -39,7 +39,7 @@ I'm a passionate [Your Profession/Student Role, e.g., Software Engineering Stude
 </div>
 
 ## 🚀 Featured Projects
-Check out my [pinned repositories](https://github.com/YOUR-USERNAME?tab=repositories) for more!
+Check out my [pinned repositories](https://github.com/nguyenhuuluanTTB?tab=repositories) for more!
 
 ## 📊 GitHub Stats
 <p align="center">
