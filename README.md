@@ -23,6 +23,8 @@ I'm a passionate Software Engineering Student at Tra Vinh University (TVU), spec
   <br>✨ Another year older, wiser, and happier ✨
 </p>
 
+![Football](https://img.shields.io/badge/⚽-Football-green?style=for-the-badge)
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nguyenhuuluanTTB&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
