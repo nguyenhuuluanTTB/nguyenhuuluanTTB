@@ -1,7 +1,7 @@
 ## Hi there 👋
-
-![Profile Views](https://views.igorkowalczyk.dev/api/badge/nguyenhuuluanTTB?style=flat&label=PROFILE+VIEWS&labelColor=gray&color=purple)
-
+<p align="center">
+    ![Profile Views](https://views.igorkowalczyk.dev/api/badge/nguyenhuuluanTTB?style=flat&label=PROFILE+VIEWS&labelColor=gray&color=purple)
+</p>p>
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2M3MGE0OGdqYmpmMWpqMnk2Z2piaWV6b3lmYnpib3pldmZqb2kzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif"
        width="1200"
