@@ -60,10 +60,10 @@ I'm a passionate Software Engineering Student at Tra Vinh University (TVU), spec
 </div>
 
 <div align="center">
-  <img src="https://tse4.mm.bing.net/th/id/OIP.WGdDD8kt_ceZmhequIbQ0QHaGD?cb=ucfimg2ucfimg=1&w=496&h=406&rs=1&pid=ImgDetMain&o=7&rm=3" alt="React Logo" width="200" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" alt="Node.js Logo" width="200" />
-  <img src="https://velog.velcdn.com/images/minw0_o/post/6950770b-7279-412e-9c4f-0ba6bcf23506/image.png" alt="Next.js Logo" width="200" />
-  <img src="https://tse2.mm.bing.net/th/id/OIP.1BeWk3yNKm6r49NqPHt02gHaHa?cb=ucfimg2ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Vue.js Logo" width="140" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJl4fp0SkQbTPU5ZxVl6AKWYuKCwM0gIhNtQ&s" alt="React Logo" width="200" />
+  <img src="https://www.scottbrady.io/img/logos/swagger-banner.png" alt="Node.js Logo" width="200" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrPmNWAtnroI424NFmJBwNtUs6YIL_eVXHjA&s" alt="Next.js Logo" width="200" />
+  <img src="https://git-scm.com/images/logos/logomark-orange@2x.png" alt="Vue.js Logo" width="140" />
 </div>
 
 
