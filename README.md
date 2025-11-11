@@ -92,7 +92,7 @@ Check out my [pinned repositories](https://github.com/nguyenhuuluanTTB?tab=repos
 </p>
 
 <p align="center">
-  Quét mã QR hoặc nhấn vào ảnh để kết bạn Zalo nhé!
+  Scan the QR code or click on the image to connect my Zalo account!
 </p>
 
 ---
