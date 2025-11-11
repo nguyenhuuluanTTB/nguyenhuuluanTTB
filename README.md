@@ -62,7 +62,7 @@ I'm a passionate Software Engineering Student at Tra Vinh University (TVU), spec
 <div align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJl4fp0SkQbTPU5ZxVl6AKWYuKCwM0gIhNtQ&s" alt="React Logo" width="200" />
   <img src="https://www.scottbrady.io/img/logos/swagger-banner.png" alt="Node.js Logo" width="200" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrPmNWAtnroI424NFmJBwNtUs6YIL_eVXHjA&s" alt="Next.js Logo" width="200" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrPmNWAtnroI424NFmJBwNtUs6YIL_eVXHjA&s" alt="Next.js Logo" width="170" />
   <img src="https://git-scm.com/images/logos/logomark-orange@2x.png" alt="Vue.js Logo" width="140" />
 </div>
 
