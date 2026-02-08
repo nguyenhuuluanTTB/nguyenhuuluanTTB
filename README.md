@@ -4,8 +4,6 @@
        alt="Coding animation">
 </p>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nguyenhuuluanTTB&bg_color=ffffff&color=000000&line=4da3ff&point=000000&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nguyenhuuluanTTB)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
@@ -75,6 +73,7 @@ Check out my [pinned repositories](https://github.com/nguyenhuuluanTTB?tab=repos
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nguyenhuuluanTTB&show_icons=true&theme=radical" alt="GitHub Stats" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenhuuluanTTB&show_icons=true&theme=radical)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhuuluanTTB&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
