@@ -73,6 +73,7 @@ Check out my [pinned repositories](https://github.com/nguyenhuuluanTTB?tab=repos
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nguyenhuuluanTTB&show_icons=true&theme=dark)
 
+![Top Languages by Commits](https://better-readme-stats-ruberald8800-b77rzyn5.leapcell.dev/stats?username=nguyenhuuluanTTB)
 
 
 
