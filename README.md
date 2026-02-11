@@ -71,9 +71,11 @@ I'm a passionate Software Engineering Student at Tra Vinh University (TVU), spec
 Check out my [pinned repositories](https://github.com/nguyenhuuluanTTB?tab=repositories) for more!
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nguyenhuuluanTTB&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nguyenhuuluanTTB&show_icons=true&theme=dark" height="170" />
+  <img src="https://better-readme-stats-ruberald8800-b77rzyn5.leapcell.dev/stats?username=nguyenhuuluanTTB" height="170" />
+</p>
 
-![Top Languages by Commits](https://better-readme-stats-ruberald8800-b77rzyn5.leapcell.dev/stats?username=nguyenhuuluanTTB)
 
 
 
