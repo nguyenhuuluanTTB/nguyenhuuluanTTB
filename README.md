@@ -16,15 +16,15 @@ I'm a passionate Software Engineering Student at Tra Vinh University (TVU), spec
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <h3>🎂 My Birthday 🎂</h3>
+      <b>🎂 My Birthday 🎂</b><br><br>
       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFiMmM1dHFmenRpMHZlaW43NmJyY2p4aGM3a3lhOHI0azVwem0ydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YdzGQyJ86YFgFxfo5W/giphy.gif" width="200"/>
       <br><br>
-      <b>📅 19 September 2004</b><br>
+      📅 19 September 2004<br>
       ✨ Another year older, wiser, and happier ✨
     </td>
 
     <td align="center" width="50%">
-      <h3>⚽ My Passion ⚽</h3>
+      <b>⚽ My Passion ⚽</b><br><br>
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXN0cXoyczF1YTliYnNzZXcyZHh2MWt3ZHh1Zzlma2EweXVpZnB0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6EppLkrc7YHIP1qIOO/giphy.gif" width="250"/>
       <br><br>
       Watching football, scoring goals, and cheering for my team is my ultimate joy!
@@ -32,13 +32,6 @@ I'm a passionate Software Engineering Student at Tra Vinh University (TVU), spec
   </tr>
 </table>
 
-
-
-
-
-<p align="center">
-  Watching football, scoring goals, and cheering for my team is my ultimate joy!
-</p>
 
 
 <p align="center">
