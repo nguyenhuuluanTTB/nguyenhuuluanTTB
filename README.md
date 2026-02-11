@@ -72,10 +72,11 @@ Check out my [pinned repositories](https://github.com/nguyenhuuluanTTB?tab=repos
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?nguyenhuuluanTTB=anuraghazra&show_icons=true&theme=radical)" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyenhuuluanTTB&show_icons=true&theme=radical" alt="GitHub Stats" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhuuluanTTB&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 
 ## 📫 Get in Touch
 ![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)  nguyenhuuluan19092004zz@gmail.com
