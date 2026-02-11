@@ -22,10 +22,6 @@ I'm a passionate Software Engineering Student at Tra Vinh University (TVU), spec
       📅 19 September 2004<br>
       ✨ Another year older, wiser, and happier ✨
     </td>
-
-    <td align="center" width="50%">
-      
-    </td>
   </tr>
 </table>
 <b>⚽ My Passion ⚽</b><br><br>
