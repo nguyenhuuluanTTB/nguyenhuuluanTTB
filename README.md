@@ -13,10 +13,6 @@ I'm a passionate Software Engineering Student at Tra Vinh University (TVU), spec
 
 <h2 align="center">🎉 About Me 🎉</h2>
 
-
-
-<h2 align="center">🎉 About Me 🎉</h2>
-
 <table align="center">
   <tr>
     <td align="center" width="50%">
@@ -30,9 +26,12 @@ I'm a passionate Software Engineering Student at Tra Vinh University (TVU), spec
     <td align="center" width="50%">
       <h3>⚽ My Passion ⚽</h3>
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXN0cXoyczF1YTliYnNzZXcyZHh2MWt3ZHh1Zzlma2EweXVpZnB0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6EppLkrc7YHIP1qIOO/giphy.gif" width="250"/>
+      <br><br>
+      Watching football, scoring goals, and cheering for my team is my ultimate joy!
     </td>
   </tr>
 </table>
+
 
 
 
