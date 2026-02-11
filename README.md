@@ -13,6 +13,8 @@ I'm a passionate Software Engineering Student at Tra Vinh University (TVU), spec
 
 <h2 align="center">🎉 About Me 🎉</h2>
 
+<h2 align="center">🎉 About Me 🎉</h2>
+
 <p align="center">
   <table>
     <tr>
@@ -31,6 +33,7 @@ I'm a passionate Software Engineering Student at Tra Vinh University (TVU), spec
     </tr>
   </table>
 </p>
+
 
 
 <p align="center">
